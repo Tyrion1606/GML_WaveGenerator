@@ -1,0 +1,5 @@
+// Inherit the parent event
+event_inherited();
+
+image_blend = c_orange;
+SelectedShadow = Obj_Shadow_6;

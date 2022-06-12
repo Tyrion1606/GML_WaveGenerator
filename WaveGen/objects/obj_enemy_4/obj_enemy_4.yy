@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Shadow",
-    "path": "objects/Obj_Shadow/Obj_Shadow.yy",
+    "name": "Obj_Enemy",
+    "path": "objects/Obj_Enemy/Obj_Enemy.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -30,11 +30,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Shadows",
-    "path": "folders/Objects/Shadows.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Shadow_2",
+  "name": "Obj_Enemy_4",
   "tags": [],
   "resourceType": "GMObject",
 }

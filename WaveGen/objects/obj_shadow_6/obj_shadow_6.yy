@@ -34,7 +34,7 @@
     "path": "folders/Objects/Shadows.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Shadow_2",
+  "name": "Obj_Shadow_6",
   "tags": [],
   "resourceType": "GMObject",
 }

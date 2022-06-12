@@ -1,5 +1,5 @@
 Selected = false;
-move_snap(16, 32);
+move_snap(15, 32);
 
 var DeservesToLive = true;
 

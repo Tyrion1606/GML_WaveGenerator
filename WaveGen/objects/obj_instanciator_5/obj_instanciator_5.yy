@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Enemy",
-    "path": "sprites/Spr_Enemy/Spr_Enemy.yy",
+    "name": "Spr_Instanciator",
+    "path": "sprites/Spr_Instanciator/Spr_Instanciator.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Shadow",
-    "path": "objects/Obj_Shadow/Obj_Shadow.yy",
+    "name": "Obj_Instanciator",
+    "path": "objects/Obj_Instanciator/Obj_Instanciator.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -30,11 +30,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Shadows",
-    "path": "folders/Objects/Shadows.yy",
+    "name": "Instanciators",
+    "path": "folders/Objects/Instanciators.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Shadow_2",
+  "name": "Obj_Instanciator_5",
   "tags": [],
   "resourceType": "GMObject",
 }
