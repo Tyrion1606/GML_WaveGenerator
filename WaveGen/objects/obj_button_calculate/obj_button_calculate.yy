@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "Obj_Button_Calculate",
   "spriteId": {
-    "name": "Spr_Button",
-    "path": "sprites/Spr_Button/Spr_Button.yy",
+    "name": "Spr_Button_Calculate",
+    "path": "sprites/Spr_Button_Calculate/Spr_Button_Calculate.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "WavegenObjPackage",
+    "path": "folders/Objects/WavegenObjPackage.yy",
   },
 }

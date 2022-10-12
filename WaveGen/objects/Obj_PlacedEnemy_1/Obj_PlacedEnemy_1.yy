@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Obj_PlacedEnemy_1",
   "spriteId": {
-    "name": "Spr_Instanciator",
-    "path": "sprites/Spr_Instanciator/Spr_Instanciator.yy",
+    "name": "Spr_Enemy",
+    "path": "sprites/Spr_Enemy/Spr_Enemy.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Instanciator",
-    "path": "objects/Obj_Instanciator/Obj_Instanciator.yy",
+    "name": "Obj_PlacedEnemy",
+    "path": "objects/Obj_PlacedEnemy/Obj_PlacedEnemy.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,16 +28,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Instanciators",
-    "path": "folders/Objects/Instanciators.yy",
+    "name": "PlacedEnemies",
+    "path": "folders/Objects/WavegenObjPackage/PlacedEnemies.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Obj_Instanciator_1",
-  "tags": [],
-  "resourceType": "GMObject",
 }

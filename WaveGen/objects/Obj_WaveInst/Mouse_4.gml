@@ -1,6 +1,6 @@
 ///@description Instantiates the shadow to the respective turret
 
-if(instance_exists(Obj_Shadow)){
+if(instance_exists(Obj_PlaceOnWave_Shadow)){
 	instance_destroy(global.ThisInstance);
 }
 

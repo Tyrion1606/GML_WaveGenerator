@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-SelfObj = Obj_Enemy_2;
 image_blend = c_green;
+SelectedShadow = Obj_PlaceOnWave_Shadow_2;

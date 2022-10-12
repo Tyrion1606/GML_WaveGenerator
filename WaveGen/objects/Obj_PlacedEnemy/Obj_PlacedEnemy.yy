@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Obj_PlacedEnemy",
   "spriteId": {
     "name": "Spr_Enemy",
     "path": "sprites/Spr_Enemy/Spr_Enemy.yy",
@@ -8,10 +11,7 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Shadow",
-    "path": "objects/Obj_Shadow/Obj_Shadow.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,16 +25,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Shadows",
-    "path": "folders/Objects/Shadows.yy",
+    "name": "PlacedEnemies",
+    "path": "folders/Objects/WavegenObjPackage/PlacedEnemies.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Obj_Shadow_2",
-  "tags": [],
-  "resourceType": "GMObject",
 }

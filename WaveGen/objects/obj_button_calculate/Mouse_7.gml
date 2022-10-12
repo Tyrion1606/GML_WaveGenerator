@@ -26,16 +26,6 @@
 	file_text_close(file);
 #endregion
 
-/*
-#region Second: Generate a TXT Archive
-	var str = Scr_txt_WaveGenerator("Waves", EnemyArray);
-	//show_debug_message(string(str));
-	
-	var file = file_text_open_write("WaveData.txt");
-	file_text_write_string(file, str);
-	file_text_close(file);
-#endregion
-*/
 #region Third: Automaticaly copy it to clipboard
 	clipboard_set_text(JsonArray);
 #endregion

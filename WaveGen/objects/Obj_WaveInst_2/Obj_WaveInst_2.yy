@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Obj_WaveInst_2",
   "spriteId": {
     "name": "Spr_Instanciator",
     "path": "sprites/Spr_Instanciator/Spr_Instanciator.yy",
@@ -8,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_WaveInst",
+    "path": "objects/Obj_WaveInst/Obj_WaveInst.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -22,16 +28,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "Instanciators",
-    "path": "folders/Objects/Instanciators.yy",
+    "path": "folders/Objects/WavegenObjPackage/Instanciators.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Obj_Instanciator",
-  "tags": [],
-  "resourceType": "GMObject",
 }
